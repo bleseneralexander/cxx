@@ -1,11 +1,11 @@
 include:'Int32'
 include:'Clone.cpp'
 
-#implement *Transform
+implement 'Transform'
 
-namespace transform main()
+Transform namespace main()
 {
-      type main()
+      type main(typedef)
       {
       }
 // aMovie 
